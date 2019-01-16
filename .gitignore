@@ -1,0 +1,6 @@
+results/*
+*.gpickle
+*.pyc
+*.csv
+.idea/*
+*.html
